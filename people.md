@@ -16,6 +16,8 @@ Google Scholar Link
 
 Sample Paper of yours
 
+Expected departure year
+
 "My favorite prior is _____"
 
 "My favorite X is Y"; choose X from \{terrain, cloud type, insectivore,
