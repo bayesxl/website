@@ -9,34 +9,24 @@ profile.
 
 ## Contents
 
-* [Journal papers](#Journal)
-* [Conference papers](#Conference)
+* [Conference & Journal Papers](#ConfJour)
 * [Preprints](#Preprints)
-* [Reports](#Reports)
-* [Workshop papers](#Workshop)
-* [Thesis](#Thesis)
+* [Workshop Papers](#Workshop)
+* [Theses](#Theses)
 
-## <a name="Journal">Journal papers</a>
+## <a name="ConfJour">Conference & Journal Papers</a>
 
-{% bibliography --file Journal_bib %}
-
-## <a name="Conference">Conference papers</a>
-
-{% bibliography --file Conference_bib %}
+{% bibliography --file ConfJour_bib %}
 
 ## <a name="Preprints">Preprints</a>
 
 {% bibliography --file Preprints_bib %}
 
-## <a name="Reports">Reports</a>
-
-{% bibliography --file Reports_bib %}
-
 ## <a name="Workshop">Workshop papers</a> 
 
 {% bibliography --file Workshop_bib %}
 
-## <a name="Thesis">Thesis</a>
+## <a name="Theses">Theses</a>
 
 {% bibliography --file Theses_bib %}
 
