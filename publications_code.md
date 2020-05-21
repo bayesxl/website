@@ -4,9 +4,6 @@ title: Publications & Code
 tags: pubs
 ---
 
-My publications (with associated code where available) are listed below; Endnote and citation statistics are available at my [Google scholar](http://scholar.google.co.uk/citations?user=iTNcAakAAAAJ)
-profile.
-
 ## Contents
 
 * [Conference & Journal Papers](#ConfJour)
