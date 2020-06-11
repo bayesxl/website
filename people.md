@@ -6,7 +6,7 @@ tags: people
 
 ## Current Members
 
-![](./public/image/michaelcohen.png)
+<img src=./public/image/michaelcohen.jpg width="200">
 
 [Michael Cohen](https://www.michael-k-cohen.com)
 
