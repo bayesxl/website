@@ -7,10 +7,11 @@ permalink: pretty
 # changing this to custom will put links to pages at *.html rather than */
 
 # Setup
-title:       Michael A Osborne
-name:        Michael A Osborne
-tagline:     'Professor of Machine Learning'
-description: 'Professor of Machine Learning at the <a href="http://www.ox.ac.uk">University of Oxford</a>'
+title:       Bayesian Exploration Lab
+name:        Bayesian Exploration Lab
+# tagline:     'Professor of Machine Learning'
+description: 'at the <a href="http://www.ox.ac.uk">University of Oxford</a>
+Department of <a href="http://www.ox.ac.uk/admissions/undergraduate/courses-listing/engineering-science"> Engineering Science </a>'
 
 # This makes the generator look at the date of each post (see "Every Jekyll
 # Post has a Date"). Posts whose date is in the future will not be published.

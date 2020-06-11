@@ -26,5 +26,8 @@ regular polyhedron, vitamin, noble gas, ancient ruin, tree, protein source,
 debunked scientific theory, function f : \mathbb{R} \to \mathbb{R},
 species in lepidoptera, frequency, curated collection, pickled vegetable\}
 
-## Left in 2020
+<!-- ## Left Us in etc. -->
 
+<!-- ## Left Us in 2021 -->
+
+<!-- ## Left Us in 2020 -->
