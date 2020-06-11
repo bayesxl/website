@@ -10,31 +10,19 @@ Built upon Hyde, a brazen two-column [Jekyll](http://jekyllrb.com) theme that pa
 
 The following format is for a conference:
 
-@inproceedings{\[first author\]\[year\]\[first word of title\],
-
-title = {},
-
-url = {},
-
-abstract = {The whole thing},
-
-language = {en},
-
-urldate = {},
-
-booktitle = {Conference Name},
-
-author = {Lastname, Firstname and Lastname, Firstname and Lastname, Firstname and ...},
-
-year = {},
-
-note = {Link to github code, if there is code},
-
-pages = {},
-
-file = {\[first author\]\[year\]\[first word of title\].pdf}
-
-}
+    @inproceedings{\[first author\]\[year\]\[first word of title\],
+    title = {},
+    url = {},
+    abstract = {The whole thing},
+    language = {en},
+    urldate = {},
+    booktitle = {Conference Name},
+    author = {Lastname, Firstname and Lastname, Firstname and Lastname, Firstname and ...},
+    year = {},
+    note = {Link to github code, if there is code},
+    pages = {},
+    file = {\[first author\]\[year\]\[first word of title\].pdf}
+    }
 
 3. Consider changing your sample paper (see below)
 
@@ -68,20 +56,14 @@ Having "../" at the front of the filepath to the image is wrong for viewing the 
 
 If you have another machine, figure it out, and document it here.
 
-  > git clone https://github.com/bayesxl/website.git
-  
-  > cd website
-  
-  > brew install ruby
-  
-  > echo 'export PATH="/usr/local/opt/ruby/bin:$PATH"' >> ~/.bash_profile
+      git clone https://github.com/bayesxl/website.git
+      cd website
+      brew install ruby
+      echo 'export PATH="/usr/local/opt/ruby/bin:$PATH"' >> ~/.bash_profile
 
 Then relaunch terminal.
 
-  > gem install --user-install bundler jekyll
-  
-  > gem install bundler:1.17.3
-  
-  > bundle install
-  
-  > bundle exec jekyll serve
+      gem install --user-install bundler jekyll
+      gem install bundler:1.17.3
+      bundle install
+      bundle exec jekyll serve
