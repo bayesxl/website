@@ -39,18 +39,18 @@ Format: (the curly braces are not part of the markdown syntax)
     <img src="../public/image/{filename}" width="200">
 
     [**{Your Name}**]({link to personal website})
-
-    [<img src="../public/image/scholar.png" height="20">]({link to your Google Scholar page})
     
-    Areas of interest : {One or a few areas of interest}
+    **Areas of interest** : {One or a few areas of interest}
 
-    Sample paper : [{Paper Title}]({link to paper})
+    **Sample paper** : [{Paper Title}]({link to paper})
 
-    Here through : {Expected Graduation Date}
+    **Here through** : {Expected Graduation Date}
 
-    Favourite prior : {Your Favorite Prior Distribution}
+    **Favourite prior** : {Your Favorite Prior Distribution}
 
-    Favourite {“terrain” | “cloud type” | “insectivore” | “racquet sport” | “quaint slang” | “kind of boat” | “celebrity hairstyle” | “capital city” | “seaside town” | “regular polyhedron” | “vitamin” | “noble gas” | “ancient ruin” | “tree” | “protein source” | “debunked scientific theory” | “scent” | “function f : R -> R” | “species in lepidoptera” | “frequency” | “curated collection of objects” | “pickled vegetable”} : {Your Favorite of That Thing; e.g. archipelago, bullocks, sycamore, rain, or yearly. “But Michael,” you say, “I don’t have a cached favorite of any of those things. Can’t I do a favorite movie or ice cream flavor?” No. Try harder.}
+    **Favourite {“terrain” | “cloud type” | “insectivore” | “racquet sport” | “quaint slang” | “kind of boat” | “celebrity hairstyle” | “capital city” | “seaside town” | “regular polyhedron” | “vitamin” | “noble gas” | “ancient ruin” | “tree” | “protein source” | “debunked scientific theory” | “scent” | “function f : R -> R” | “species in lepidoptera” | “frequency” | “curated collection of objects” | “pickled vegetable”}** : {Your Favorite of That Thing; e.g. archipelago, bullocks, sycamore, rain, or yearly. “But Michael,” you say, “I don’t have a cached favorite of any of those things. Can’t I do a favorite movie or ice cream flavor?” No. Try harder.}
+    
+    [Google Scholar Page]({link to your Google Scholar page})
     
 Having "../" at the front of the filepath to the image is wrong for viewing the image on github, but right for the website. To check the image on github, change it to "./", and click Preview Changes. (But then switch it back to "../" before committing the change.)
     
