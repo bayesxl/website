@@ -36,28 +36,6 @@ file = {\[first author\]\[year\]\[first word of title\].pdf}
 
 }
 
-## How to Preview Changes (on a Mac)
-
-If you have another machine, figure it out, and document it here.
-
-  > git clone https://github.com/bayesxl/website.git
-  
-  > cd website
-  
-  > brew install ruby
-  
-  > echo 'export PATH="/usr/local/opt/ruby/bin:$PATH"' >> ~/.bash_profile
-
-Then relaunch terminal.
-
-  > gem install --user-install bundler jekyll
-  
-  > gem install bundler:1.17.3
-  
-  > bundle install
-  
-  > bundle exec jekyll serve
-
 3. Consider changing your sample paper (see below)
 
 ## Adding Yourself
@@ -83,3 +61,25 @@ Format: (the curly braces are not part of the markdown syntax)
     Favorite Prior : {Your Favorite Prior Distribution :)}
 
     Favorite {“terrain” | “cloud type” | “insectivore” | “racquet sport” | “quaint slang” | “boat” | “celebrity hairstyle” | “capital city” | “seaside town” | “regular polyhedron” | “vitamin” | “noble gas” | “ancient ruin” | “tree” | “protein source” | “debunked scientific theory” | “scent” | “function \\(f : \mathbb{R} \to \mathbb{R}\\)” | “species in lepidoptera” | “frequency” | “curated collection of objects” | “pickled vegetable”} : {Your Favorite of That Thing; e.g. archipelago, bullocks, sycamore, rain, or yearly. “But Michael,” you say, “I don’t have a cached favorite of any of those things. Can’t I do a favorite movie or ice cream flavor?” No. Try harder.}
+    
+## How to Preview Changes (on a Mac)
+
+If you have another machine, figure it out, and document it here.
+
+  > git clone https://github.com/bayesxl/website.git
+  
+  > cd website
+  
+  > brew install ruby
+  
+  > echo 'export PATH="/usr/local/opt/ruby/bin:$PATH"' >> ~/.bash_profile
+
+Then relaunch terminal.
+
+  > gem install --user-install bundler jekyll
+  
+  > gem install bundler:1.17.3
+  
+  > bundle install
+  
+  > bundle exec jekyll serve
