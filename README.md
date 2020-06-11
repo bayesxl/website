@@ -58,6 +58,8 @@ Then relaunch terminal.
   
   > bundle exec jekyll serve
 
+3. Consider changing your sample paper (see below)
+
 ## Adding Yourself
 
 Add a picture of yourself to bayesxl/website/public/image
