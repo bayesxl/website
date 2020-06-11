@@ -28,7 +28,7 @@ author = {Lastname, Firstname and Lastname, Firstname and Lastname, Firstname an
 
 month = {},
 
-year = {2019},
+year = {},
 
 note = {Link to github code, if there is code},
 
