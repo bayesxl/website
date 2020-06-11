@@ -38,7 +38,7 @@ Format: (the curly braces are not part of the markdown syntax)
 
     <img src="../public/image/{filename}" width="200">
 
-    [***{Your Name}***]({link to personal website})
+    [***{Your Name}***]({link to personal website, if you have one})
     
     **Areas of interest** : {One or a few areas of interest}
 
