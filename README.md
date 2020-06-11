@@ -58,9 +58,9 @@ Format: (the curly braces are not part of the markdown syntax)
 
     Here through : {Expected Graduation Date}
 
-    Favorite prior : {Your Favorite Prior Distribution}
+    Favourite prior : {Your Favorite Prior Distribution}
 
-    Favorite {“terrain” | “cloud type” | “insectivore” | “racquet sport” | “quaint slang” | “boat” | “celebrity hairstyle” | “capital city” | “seaside town” | “regular polyhedron” | “vitamin” | “noble gas” | “ancient ruin” | “tree” | “protein source” | “debunked scientific theory” | “scent” | “function \\(f : \mathbb{R} \to \mathbb{R}\\)” | “species in lepidoptera” | “frequency” | “curated collection of objects” | “pickled vegetable”} : {Your Favorite of That Thing; e.g. archipelago, bullocks, sycamore, rain, or yearly. “But Michael,” you say, “I don’t have a cached favorite of any of those things. Can’t I do a favorite movie or ice cream flavor?” No. Try harder.}
+    Favourite {“terrain” | “cloud type” | “insectivore” | “racquet sport” | “quaint slang” | “kind of boat” | “celebrity hairstyle” | “capital city” | “seaside town” | “regular polyhedron” | “vitamin” | “noble gas” | “ancient ruin” | “tree” | “protein source” | “debunked scientific theory” | “scent” | “function \\(f : \mathbb{R} \to \mathbb{R}\\)” | “species in lepidoptera” | “frequency” | “curated collection of objects” | “pickled vegetable”} : {Your Favorite of That Thing; e.g. archipelago, bullocks, sycamore, rain, or yearly. “But Michael,” you say, “I don’t have a cached favorite of any of those things. Can’t I do a favorite movie or ice cream flavor?” No. Try harder.}
     
 ## How to Preview Changes (on a Mac)
 
