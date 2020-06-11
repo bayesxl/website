@@ -42,7 +42,7 @@ Format: (the curly braces are not part of the markdown syntax)
     
     **Areas of interest** : {One or a few areas of interest}
 
-    **Sample paper** : [{Paper Title}]({link to paper})
+    **Sample paper** : [{Paper Title (ideally, a BXL paper)}]({link to paper})
 
     **Here through** : {Expected Graduation Date}
 
