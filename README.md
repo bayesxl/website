@@ -57,3 +57,27 @@ Then relaunch terminal.
   > bundle install
   
   > bundle exec jekyll serve
+
+## Adding Yourself
+
+Add a picture of yourself to bayesxl/website/public/image
+
+Go to bayesxl/website/people.md.
+
+Add an entry under Current Members. Mike goes on top, then the later-to-graduate students go above the sooner-to-graduate students.
+
+Format: (the curly braces are not part of the markdown syntax)
+
+  ![](./public/image/{filename})
+
+  [{Your Name}]({link to personal website})
+
+  [Google Scholar]({link to your Google Scholar page})
+
+  Sample paper: [{Paper Title}]({link to paper})
+
+  Here through : {Expected Graduation Date}
+
+  Favorite Prior : {Your Favorite Prior Distribution :)}
+
+  Favorite {“terrain” | “cloud type” | “insectivore” | “racquet sport” | “quaint slang” | “boat” | “celebrity hairstyle” | “capital city” | “seaside town” | “regular polyhedron” | “vitamin” | “noble gas” | “ancient ruin” | “tree” | “protein source” | “debunked scientific theory” | “scent” | “function \\(f : \mathbb{R} \to \mathbb{R}\\)” | “species in lepidoptera” | “frequency” | “curated collection of objects” | “pickled vegetable”} : {Your Favorite of That Thing; e.g. archipelago, bullocks, sycamore, rain, or yearly. “But Michael,” you say, “I don’t have a cached favorite of any of those things. Can’t I do a favorite movie or ice cream flavor?” No. Try harder.}
