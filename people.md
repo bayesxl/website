@@ -8,7 +8,7 @@ tags: people
 
 <img src="../public/image/michaelcohen.jpg" width="200">
 
-[**Michael Cohen**](https://www.michael-k-cohen.com)
+[***Michael Cohen***](https://www.michael-k-cohen.com)
 
 **Areas of interest** : Bayesian Reinforcement Learning, AGI Safety
 
