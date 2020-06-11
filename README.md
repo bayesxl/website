@@ -48,9 +48,9 @@ Add an entry under Current Members. Mike goes on top, then the later-to-graduate
 
 Format: (the curly braces are not part of the markdown syntax)
 
-    ![](./public/image/{filename})
+    <img src=./public/image/{filename} width="200">
 
-    [{Your Name}]({link to personal website})
+    [**{Your Name}**]({link to personal website})
 
     [Google Scholar]({link to your Google Scholar page})
 
