@@ -40,7 +40,7 @@ Format: (the curly braces are not part of the markdown syntax)
 
     [**{Your Name}**]({link to personal website})
 
-    [Google Scholar]({link to your Google Scholar page})
+    [<img src="../public/image/scholar.png" height="20">]({link to your Google Scholar page})
     
     Areas of interest : {One or a few areas of interest}
 
