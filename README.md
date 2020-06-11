@@ -74,7 +74,7 @@ Format: (the curly braces are not part of the markdown syntax)
 
     [Google Scholar]({link to your Google Scholar page})
 
-    Sample paper: [{Paper Title}]({link to paper})
+    Sample paper : [{Paper Title}]({link to paper})
 
     Here through : {Expected Graduation Date}
 
