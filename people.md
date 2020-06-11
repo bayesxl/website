@@ -14,7 +14,7 @@ tags: people
 
 **Sample paper** : [Pessimism About Unknown Unknowns Inspires Conservatism](https://pdfs.semanticscholar.org/cece/bc0c325a9fc58e78d82a42c8b3f2d9bce769.pdf)
 
-**Here through** : 2022
+**Here through** : June 2022
 
 **Favourite prior** : the [Speed Prior](https://arxiv.org/abs/1604.03343)
 
