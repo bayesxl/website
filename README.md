@@ -54,8 +54,6 @@ Having "../" at the front of the filepath to the image is wrong for viewing the 
     
 ## How to Preview Changes (on a Mac)
 
-If you have another machine, figure it out, and document it here.
-
       git clone https://github.com/bayesxl/website.git
       cd website
       brew install ruby
