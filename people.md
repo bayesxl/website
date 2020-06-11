@@ -24,7 +24,7 @@ mcohen@robots.ox.ac.uk \| [Google Scholar](https://scholar.google.com/citations?
 
 ---
 
-<img src="../public/image/VuNguyen.jpg}" width="200">
+<img src="../public/image/VuNguyen.jpg" width="200">
 
 [***Vu Nguyen***](http://ntienvu.github.io/)
 
@@ -38,7 +38,7 @@ mcohen@robots.ox.ac.uk \| [Google Scholar](https://scholar.google.com/citations?
 
 **Favourite {“terrain” | “cloud type” | “insectivore” | “racquet sport” | “quaint slang” | “kind of boat” | “celebrity hairstyle” | “capital city” | “seaside town” | “regular polyhedron” | “vitamin” | “noble gas” | “ancient ruin” | “tree” | “protein source” | “debunked scientific theory” | “scent” | “function f : R -> R” | “species in lepidoptera” | “frequency” | “curated collection of objects” | “pickled vegetable”}** : {Your Favorite of That Thing; e.g. archipelago, bullocks, sycamore, rain, or yearly. “But Michael,” you say, “I don’t have a cached favorite of any of those things. Can’t I do a favorite movie or ice cream flavor?” No. Try harder.}
 
-vu@robots.ox.ac.uk \| [Google Scholar](https://scholar.google.com.au/citations?user=5RQyC9cAAAAJ&hl=en) \| [Github](https://github.com/ntienvu) | [Twitter](https://twitter.com/nguyentienvu) | [Linkedin](https://www.linkedin.com/in/tienvunguyen/)
+vu@robots.ox.ac.uk \| [Google Scholar](https://scholar.google.com.au/citations?user=5RQyC9cAAAAJ&hl=en) \| [Github](https://github.com/ntienvu) \| [Twitter](https://twitter.com/nguyentienvu) \| [Linkedin](https://www.linkedin.com/in/tienvunguyen/)
 
 ---
 
