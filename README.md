@@ -10,7 +10,7 @@ Built upon Hyde, a brazen two-column [Jekyll](http://jekyllrb.com) theme that pa
 
 The following format is for a conference:
 
-    @inproceedings{\[first author\]\[year\]\[first word of title\],
+    @inproceedings{[first author][year][first word of title],
         title = {},
         url = {},
         abstract = {The whole thing},
@@ -21,7 +21,7 @@ The following format is for a conference:
         year = {},
         note = {Link to github code, if there is code},
         pages = {},
-        file = {\[first author\]\[year\]\[first word of title\].pdf}
+        file = {[first author][year][first word of title].pdf}
     }
 
 3. Consider changing your sample paper (see below)
