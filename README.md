@@ -11,17 +11,17 @@ Built upon Hyde, a brazen two-column [Jekyll](http://jekyllrb.com) theme that pa
 The following format is for a conference:
 
     @inproceedings{\[first author\]\[year\]\[first word of title\],
-    title = {},
-    url = {},
-    abstract = {The whole thing},
-    language = {en},
-    urldate = {},
-    booktitle = {Conference Name},
-    author = {Lastname, Firstname and Lastname, Firstname and Lastname, Firstname and ...},
-    year = {},
-    note = {Link to github code, if there is code},
-    pages = {},
-    file = {\[first author\]\[year\]\[first word of title\].pdf}
+        title = {},
+        url = {},
+        abstract = {The whole thing},
+        language = {en},
+        urldate = {},
+        booktitle = {Conference Name},
+        author = {Lastname, Firstname and Lastname, Firstname and Lastname, Firstname and ...},
+        year = {},
+        note = {Link to github code, if there is code},
+        pages = {},
+        file = {\[first author\]\[year\]\[first word of title\].pdf}
     }
 
 3. Consider changing your sample paper (see below)
