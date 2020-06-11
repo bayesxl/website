@@ -10,7 +10,7 @@ tags: people
 
 [**Michael Cohen**](https://www.michael-k-cohen.com)
 
-[Google Scholar](https://scholar.google.com/citations?user=dwwuO3UAAAAJ&hl=en)
+[<img src="../public/image/scholar.png" height="20">](https://scholar.google.com/citations?user=dwwuO3UAAAAJ&hl=en)
 
 Areas of interest : Bayesian Reinforcement Learning, AGI Safety
 
