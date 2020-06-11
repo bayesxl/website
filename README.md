@@ -48,7 +48,7 @@ Add an entry under Current Members. Mike goes on top, then the later-to-graduate
 
 Format: (the curly braces are not part of the markdown syntax)
 
-    <img src=./public/image/{filename} width="200">
+    <img src="../public/image/{filename}" width="200">
 
     [**{Your Name}**]({link to personal website})
 
@@ -61,6 +61,8 @@ Format: (the curly braces are not part of the markdown syntax)
     Favourite prior : {Your Favorite Prior Distribution}
 
     Favourite {“terrain” | “cloud type” | “insectivore” | “racquet sport” | “quaint slang” | “kind of boat” | “celebrity hairstyle” | “capital city” | “seaside town” | “regular polyhedron” | “vitamin” | “noble gas” | “ancient ruin” | “tree” | “protein source” | “debunked scientific theory” | “scent” | “function f : R -> R” | “species in lepidoptera” | “frequency” | “curated collection of objects” | “pickled vegetable”} : {Your Favorite of That Thing; e.g. archipelago, bullocks, sycamore, rain, or yearly. “But Michael,” you say, “I don’t have a cached favorite of any of those things. Can’t I do a favorite movie or ice cream flavor?” No. Try harder.}
+    
+Having "../" at the front of the filepath to the image is wrong for viewing the image on github, but right for the website. To check the image on github, change it to "./", and click Preview Changes. (But then switch it back to "../" before committing the change.)
     
 ## How to Preview Changes (on a Mac)
 
