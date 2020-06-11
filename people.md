@@ -20,7 +20,9 @@ tags: people
 
 **Favourite kind of boat** : small sailboat
 
-[Google Scholar Page](https://scholar.google.com/citations?user=dwwuO3UAAAAJ&hl=en)
+[Google Scholar](https://scholar.google.com/citations?user=dwwuO3UAAAAJ&hl=en) \| [Github](https://github.com/mkc1000/)
+
+---
 
 <!-- ## Left Us in etc. -->
 
