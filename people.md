@@ -6,25 +6,19 @@ tags: people
 
 ## Current Members
 
-Photo
+![](./public/image/michaelcohen.png)
 
-Name
+[Michael Cohen](https://www.michael-k-cohen.com)
 
-Personal Website
+[Google Scholar](https://scholar.google.com/citations?user=dwwuO3UAAAAJ&hl=en)
 
-Google Scholar Link
+Sample paper : [Pessimism About Unknown Unknowns Inspires Conservatism](https://pdfs.semanticscholar.org/cece/bc0c325a9fc58e78d82a42c8b3f2d9bce769.pdf)
 
-Sample Paper of yours
+Here through : 2022
 
-Expected departure year
+Favourite prior : the [Speed Prior](https://arxiv.org/abs/1604.03343)
 
-"My favorite prior is _____"
-
-"My favorite X is Y"; choose X from \{terrain, cloud type, insectivore,
-racquet sport, boat, celebrity hair style, capital city, seaside town,
-regular polyhedron, vitamin, noble gas, ancient ruin, tree, protein source,
-debunked scientific theory, function f : \mathbb{R} \to \mathbb{R},
-species in lepidoptera, frequency, curated collection, pickled vegetable\}
+Favourite kind of boat : small sailboat
 
 <!-- ## Left Us in etc. -->
 
