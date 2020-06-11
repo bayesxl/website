@@ -19,7 +19,7 @@ The following format is for a conference:
         booktitle = {Conference Name},
         author = {Lastname, Firstname and Lastname, Firstname and Lastname, Firstname and ...},
         year = {},
-        note = {Link to github code, if there is code},
+        note = {Link to github code, if there is code; if not, delete this line},
         pages = {},
         file = {[first author lastname][year][first word of title].pdf}
     }
