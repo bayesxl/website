@@ -41,6 +41,8 @@ Format: (the curly braces are not part of the markdown syntax)
     [**{Your Name}**]({link to personal website})
 
     [Google Scholar]({link to your Google Scholar page})
+    
+    Areas of interest : {One or a few areas of interest}
 
     Sample paper : [{Paper Title}]({link to paper})
 
