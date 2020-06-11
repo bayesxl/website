@@ -4,7 +4,7 @@ Built upon Hyde, a brazen two-column [Jekyll](http://jekyllrb.com) theme that pa
 
 ## Adding papers
 
-1. Add pdf to bayesxl/website/public/pdfs as \[first author lastname\]\[year\]\[first word of title\].pdf
+1. Add pdf to bayesxl/website/public/pdf as \[first author lastname\]\[year\]\[first word of title\].pdf
 
 2. Add bibtex entry to bayesxl/website/_bibliography/\[ConfJour | Preprints | Workshop | Theses\]_bib.bib 
 
