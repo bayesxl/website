@@ -10,17 +10,17 @@ tags: people
 
 [**Michael Cohen**](https://www.michael-k-cohen.com)
 
-[<img src="../public/image/scholar.png" height="20">](https://scholar.google.com/citations?user=dwwuO3UAAAAJ&hl=en)
+**Areas of interest** : Bayesian Reinforcement Learning, AGI Safety
 
-Areas of interest : Bayesian Reinforcement Learning, AGI Safety
+**Sample paper** : [Pessimism About Unknown Unknowns Inspires Conservatism](https://pdfs.semanticscholar.org/cece/bc0c325a9fc58e78d82a42c8b3f2d9bce769.pdf)
 
-Sample paper : [Pessimism About Unknown Unknowns Inspires Conservatism](https://pdfs.semanticscholar.org/cece/bc0c325a9fc58e78d82a42c8b3f2d9bce769.pdf)
+**Here through** : 2022
 
-Here through : 2022
+**Favourite prior** : the [Speed Prior](https://arxiv.org/abs/1604.03343)
 
-Favourite prior : the [Speed Prior](https://arxiv.org/abs/1604.03343)
+**Favourite kind of boat** : small sailboat
 
-Favourite kind of boat : small sailboat
+[Google Scholar Page](https://scholar.google.com/citations?user=dwwuO3UAAAAJ&hl=en)
 
 <!-- ## Left Us in etc. -->
 
