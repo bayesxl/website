@@ -34,9 +34,9 @@ mcohen@robots.ox.ac.uk \| [Google Scholar](https://scholar.google.com/citations?
 
 **Here through** : Nov 2020
 
-**Favourite prior** : {Your Favorite Prior Distribution}
+**Favourite prior** : uniform prior for diversity
 
-**Favourite {“terrain” | “cloud type” | “insectivore” | “racquet sport” | “quaint slang” | “kind of boat” | “celebrity hairstyle” | “capital city” | “seaside town” | “regular polyhedron” | “vitamin” | “noble gas” | “ancient ruin” | “tree” | “protein source” | “debunked scientific theory” | “scent” | “function f : R -> R” | “species in lepidoptera” | “frequency” | “curated collection of objects” | “pickled vegetable”}** : {Your Favorite of That Thing; e.g. archipelago, bullocks, sycamore, rain, or yearly. “But Michael,” you say, “I don’t have a cached favorite of any of those things. Can’t I do a favorite movie or ice cream flavor?” No!}
+**Favourite: chess, warfare tactics and debugging
 
 vu@robots.ox.ac.uk \| [Google Scholar](https://scholar.google.com.au/citations?user=5RQyC9cAAAAJ&hl=en) \| [Github](https://github.com/ntienvu) \| [Twitter](https://twitter.com/nguyentienvu) \| [Linkedin](https://www.linkedin.com/in/tienvunguyen/)
 
@@ -49,6 +49,8 @@ vu@robots.ox.ac.uk \| [Google Scholar](https://scholar.google.com.au/citations?u
 
 
 <!-- ## Left Us in etc. -->
+**Favourite {“terrain” | “cloud type” | “insectivore” | “racquet sport” | “quaint slang” | “kind of boat” | “celebrity hairstyle” | “capital city” | “seaside town” | “regular polyhedron” | “vitamin” | “noble gas” | “ancient ruin” | “tree” | “protein source” | “debunked scientific theory” | “scent” | “function f : R -> R” | “species in lepidoptera” | “frequency” | “curated collection of objects” | “pickled vegetable”}** : {Your Favorite of That Thing; e.g. archipelago, bullocks, sycamore, rain, or yearly. “But Michael,” you say, “I don’t have a cached favorite of any of those things. Can’t I do a favorite movie or ice cream flavor?” No!}
+
 
 <!-- ## Left Us in 2021 -->
 
