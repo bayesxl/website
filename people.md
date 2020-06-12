@@ -36,7 +36,7 @@ mcohen@robots.ox.ac.uk \| [Google Scholar](https://scholar.google.com/citations?
 
 **Favourite prior** : uniform prior for diversity
 
-**Favourite: chess, warfare tactics and debugging
+**Favourite kind of tree**: coconut
 
 vu@robots.ox.ac.uk \| [Google Scholar](https://scholar.google.com.au/citations?user=5RQyC9cAAAAJ&hl=en) \| [Github](https://github.com/ntienvu) \| [Twitter](https://twitter.com/nguyentienvu) \| [Linkedin](https://www.linkedin.com/in/tienvunguyen/)
 
