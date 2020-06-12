@@ -6,6 +6,20 @@ tags: people
 
 ## Current Members
 
+<img src="../public/image/oval.png" width="200">
+
+[***Mike Osborne***](http://www.robots.ox.ac.uk/~mosb)
+
+**Areas of interest** : Bayes
+
+**Favourite prior** : One expressing its owner’s deepest wisdom. 
+
+**Favourite kind of quaint slang** : Flat strap like a lizard drinking. 
+
+ mosb@robots.ox.ac.uk \| [Google Scholar](https://scholar.google.co.uk/citations?user=iTNcAakAAAAJ)\| [Github](https://github.com/mosb)
+
+---
+
 <img src="../public/image/michaelcohen.jpg" width="200">
 
 [***Michael Cohen***](https://www.michael-k-cohen.com)
