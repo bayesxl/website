@@ -1,0 +1,10 @@
+I"ð<p>Bayesian optimisation is the use of probabilistic modelling techniques to perform the global optimisation of black-box functions.</p>
+
+<p>Such optimisation problems are found in any application requiring the automation of design choices. In particular, global optimisation forms the chief challenge in much of Machine Learning, for which the state-of-the-art is often arduous hand-tuning of parameter choices and the heuristic selection of models and architectures. More broadly, Bayesian optimisation has found use in interactive user-interfaces, robotics, environmental monitoring and sensor networks.</p>
+
+<p>These applications are united by their complex, expensive, multi-modal objective functions. Here, the Bayesian modelling approach offers flexible probabilistic surrogates that both adapt to the observed structure of the objective while maintaining an honest reflection of uncertainty. The former ensures that the best use is made of expensive evaluations; the latter is crucial in ensuring that algorithms continue to explore objectives so as to locate hidden pockets of objective mass.</p>
+
+<p>Our research agenda focuses on expanding the range of Bayesian optimisation to tackle the most challenging real-world problems, including those with high-dimensional input spaces and where very large numbers of data must be gathered.</p>
+
+<p>Bayesian optimisation is also at the heart of <a href="https://mindfoundry.ai">Mind Foundry:</a> particularly, <a href="https://mindfoundry.ai/optaas/">OPTaaS.</a></p>
+:ET

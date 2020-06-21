@@ -1,0 +1,4 @@
+I"<p>Fast and reliable fault and changepoint detection is vital in achieving near-zero-breakdown performance for many real-world systems.</p>
+
+<p>We aim to design algorithms that can identify changes in the characteristics of an instrumented system that may be indicative of actual or imminent failure. Our probabilistic systems are also be capable of distinguishing between misleading changepoints in the mechanism of observation (i.e. sensor faults) and changepoints in the actual underlying characteristics of data. The flexibility of Bayesian non-parametric models permits tolerance to a wide range of possible faults and changepoints. Further, these approaches provide the operators and/or the supervisory control system with robust uncertainty estimates for decision support and inference.</p>
+:ET

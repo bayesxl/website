@@ -20,6 +20,24 @@ tags: people
 
 ---
 
+<img src="../public/image/saadhamid.jpg" width="200">
+
+[***Saad Hamid***]()
+
+**Areas of interest** : Bayesian Quadrature, Bayesian Nonparameterics
+
+**Sample paper** : [Batch Selection for Parallelisation of Bayesian Quadrature](https://arxiv.org/pdf/1812.01553.pdf)
+
+**Here through** : October 2022
+
+**Favourite prior** : Gaussian Process
+
+**Favourite kind of boat** : Rowing boat
+
+saad@robots.ox.ac.uk \| [Google Scholar](https://scholar.google.com/citations?user=sl1V0T4AAAAJ) \| [Github](https://github.com/saadhamid96) 
+
+---
+
 <img src="../public/image/michaelcohen.jpg" width="200">
 
 [***Michael Cohen***](https://www.michael-k-cohen.com)
