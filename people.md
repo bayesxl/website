@@ -16,7 +16,7 @@ tags: people
 
 **Favourite kind of quaint slang** : Flat strap like a lizard drinking. 
 
- mosb@robots.ox.ac.uk \| [Google Scholar](https://scholar.google.co.uk/citations?user=iTNcAakAAAAJ)\| [Github](https://github.com/mosb)
+ mosb@robots.ox.ac.uk \| [Google Scholar](https://scholar.google.co.uk/citations?user=iTNcAakAAAAJ) \| [Github](https://github.com/mosb)
 
 ---
 
@@ -67,6 +67,8 @@ mcohen@robots.ox.ac.uk \| [Google Scholar](https://scholar.google.com/citations?
 **Here through** : Dec 2020
 
 **Favourite prior** : Normal Distribution (to avoid inference headaches)
+
+**Favourite kind of ship** : TARDIS
 
 sschulze@robots.ox.ac.uk \| [Github](https://github.com/BastiSchulze) 
 
