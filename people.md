@@ -50,7 +50,7 @@ saad@robots.ox.ac.uk \| [Google Scholar](https://scholar.google.com/citations?us
 
 **Favourite prior** : the [Speed Prior](https://arxiv.org/abs/1604.03343)
 
-**Favourite kind of boat** : small sailboat
+**Favourite frequency** : 1/lifetime
 
 mcohen@robots.ox.ac.uk \| [Google Scholar](https://scholar.google.com/citations?user=dwwuO3UAAAAJ&hl=en) \| [Github](https://github.com/mkc1000/)
 
