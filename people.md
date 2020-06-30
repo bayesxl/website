@@ -56,6 +56,22 @@ mcohen@robots.ox.ac.uk \| [Google Scholar](https://scholar.google.com/citations?
 
 ---
 
+<img src="../public/image/SebSchulze.jpg" width="200">
+
+***Sebastian Schulze***
+
+**Areas of interest** : Bayesian Reinforcement Learning, Bayesian Nonparametrics, Decision making under uncertainty
+
+**Sample paper** : [Active Reinforcement Learning with Monte-Carlo Tree Search](https://arxiv.org/abs/1803.04926)
+
+**Here through** : Dec 2020
+
+**Favourite prior** : Normal Distribution (to avoid inference headaches)
+
+sschulze@robots.ox.ac.uk \| [Github](https://github.com/BastiSchulze) 
+
+---
+
 <img src="../public/image/VuNguyen.jpg" width="200">
 
 [***Vu Nguyen***](http://ntienvu.github.io/)
