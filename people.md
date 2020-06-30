@@ -58,7 +58,7 @@ mcohen@robots.ox.ac.uk \| [Google Scholar](https://scholar.google.com/citations?
 
 <img src="../public/image/SebSchulze.jpg" width="200">
 
-[***Sebastian Schulze***]
+***Sebastian Schulze***
 
 **Areas of interest** : Bayesian Reinforcement Learning, Bayesian Nonparametrics, Decision making under uncertainty
 
