@@ -30,7 +30,7 @@ tags: people
 
 **Here through** : October 2022
 
-**Favourite prior** : Gaussian Process
+**Favourite prior** : A Gaussian Process Prior with a Spectral Mixture Kernel
 
 **Favourite kind of boat** : Rowing boat
 
