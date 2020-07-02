@@ -56,6 +56,25 @@ mcohen@robots.ox.ac.uk \| [Google Scholar](https://scholar.google.com/citations?
 
 ---
 
+
+<img src="../public/image/xingchenwan.jpg" width="200">
+
+[***Xingchen Wan***](https://xingchenwan.github.io)
+
+**Areas of interest** : Bayesian optimisation, AutoML
+
+**Sample paper** : [Neural Architecture Search using Bayesian Optimisation with Weisfeiler-Lehman Kernel](https://arxiv.org/abs/2006.07556)
+
+**Here through** : June 2022
+
+**Favourite prior** : anything leading to tractable analysis and elegant maths :P
+
+**Favourite view** : a starry night
+
+xwan@robots.ox.ac.uk \| [Github](https://github.com/xingchenwan/)
+
+---
+
 <img src="../public/image/SebSchulze.jpg" width="200">
 
 ***Sebastian Schulze***
