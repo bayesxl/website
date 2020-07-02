@@ -71,7 +71,7 @@ mcohen@robots.ox.ac.uk \| [Google Scholar](https://scholar.google.com/citations?
 
 **Favourite view** : a starry night
 
-xwan@robots.ox.ac.uk \| [Github](https://github.com/xingchenwan/)
+xwan@robots.ox.ac.uk \| [Github](https://github.com/xingchenwan/) \| [LinkedIn](https://www.linkedin.com/in/xingchenwan/)
 
 ---
 
