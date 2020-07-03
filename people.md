@@ -75,6 +75,24 @@ xwan@robots.ox.ac.uk \| [Github](https://github.com/xingchenwan/) \| [LinkedIn](
 
 ---
 
+<img src="../public/image/EdWagstaff.jpg" width="200">
+
+[***Ed Wagstaff***](https://edwag.github.io)
+
+**Areas of interest** : Equivariant Models, Bayesian Quadrature
+
+**Sample paper** : [On the Limitations of Representing Functions on Sets](http://proceedings.mlr.press/v97/wagstaff19a/wagstaff19a.pdf)
+
+**Here through** : Jan 2021
+
+**Favourite prior** : Dirichlet
+
+**Favourite function f : R -> R** : [The Devil's staircase](https://en.wikipedia.org/wiki/Cantor_function)
+
+ed@robots.ox.ac.uk \| [Google Scholar](https://scholar.google.com/citations?user=1wcPYloAAAAJ&hl=en) \| [Github](https://github.com/edwag)
+
+---
+
 <img src="../public/image/SebSchulze.jpg" width="200">
 
 ***Sebastian Schulze***
