@@ -1,0 +1,27 @@
+I"�<h2 id="we-are">We are</h2>
+
+<p>…</p>
+
+<h2 id="contact">Contact</h2>
+
+<script language="JavaScript">
+<!--
+document.write('<a href="mailto:' + 'mosb' + '@' + 'robots.ox.ac.uk' + '">');
+document.write('mosb' + '@' + 'robots.ox.ac.uk' + '</a>');
+//-->
+</script>
+
+<p><a href="https://www.google.co.uk/maps/place/Oxford-Man+Institute+of+Quantitative+Finance/@51.7615793,-1.2695656,15z/data=!4m2!3m1!1s0x0:0x5542aa1404fd503d">Eagle House</a><br />
+Walton Well Road<br />
+Oxford<br />
+OX2 6ED<br />
+Oxford<br />
+United Kingdom</p>
+
+<h2 id="about-this-site">About this site</h2>
+
+<p><a href="https://github.com/bayesxl/website">This site</a> was built using <a href="https://github.com/poole/hyde">Hyde,</a> a theme for <a href="http://jekyllrb.com/">Jekyll,</a> along with <a href="https://github.com/inukshuk/jekyll-scholar">Jekyll Scholar</a> and liberal borrowing from Mike Osborne’s <a href="https://www.robots.ox.ac.uk/~mosb/">excellent site</a>, which liberally borrows from <a href="http://www.robots.ox.ac.uk/~jwvdm/">Jan-Willem van de Meent’s</a> <a href="https://github.com/jwvdm/robots-homepage">excellent site.</a> The colours are drawn from <a href="http://chriskempson.github.io/base16/">base16,</a> and the fonts are <a href="https://typekit.com/fonts/karmina-sans">Karmina Sans</a> and <a href="https://typekit.com/fonts/karmina">Karmina.</a></p>
+
+<p>This website was current as of 2020-06-22 00:12.</p>
+
+:ET

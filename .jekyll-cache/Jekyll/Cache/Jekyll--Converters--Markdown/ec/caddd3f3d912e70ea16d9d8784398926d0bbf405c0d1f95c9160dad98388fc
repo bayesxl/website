@@ -1,0 +1,4 @@
+I"<p><a href="http://www.probabilistic-numerics.org">Probabilistic Numerics</a> is the study of numerical methods as learning algorithms.</p>
+
+<p><a href="http://probabilistic-numerics.org">Probabilistic Numerics</a> is a new field that aims to bring a principled Bayesian framework to the computational bottlenecks common to all AI systems: numerical optimisation, quadrature (numerical integration) and ODE solving. This framework allows the numerical errors that emerge from the use of numerical procedures to be correctly accommodated and propagated. It also permits a finite computational budget to be optimally and automatically allocated amongst a pipeline of numerics procedures: the numerics procedures where error is most severe can be assigned more computation.</p>
+:ET

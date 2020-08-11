@@ -16,7 +16,25 @@ tags: people
 
 **Favourite kind of quaint slang** : Flat strap like a lizard drinking. 
 
- mosb@robots.ox.ac.uk \| [Google Scholar](https://scholar.google.co.uk/citations?user=iTNcAakAAAAJ)\| [Github](https://github.com/mosb)
+ mosb@robots.ox.ac.uk \| [Google Scholar](https://scholar.google.co.uk/citations?user=iTNcAakAAAAJ) \| [Github](https://github.com/mosb)
+
+---
+
+<img src="../public/image/saadhamid.jpg" width="200">
+
+[***Saad Hamid***]()
+
+**Areas of interest** : Bayesian Quadrature, Bayesian Nonparameterics
+
+**Sample paper** : [Batch Selection for Parallelisation of Bayesian Quadrature](https://arxiv.org/pdf/1812.01553.pdf)
+
+**Here through** : October 2022
+
+**Favourite prior** : A Gaussian Process Prior with a Spectral Mixture Kernel
+
+**Favourite kind of boat** : Rowing boat
+
+saad@robots.ox.ac.uk \| [Google Scholar](https://scholar.google.com/citations?user=sl1V0T4AAAAJ) \| [Github](https://github.com/saadhamid96) 
 
 ---
 
@@ -32,9 +50,64 @@ tags: people
 
 **Favourite prior** : the [Speed Prior](https://arxiv.org/abs/1604.03343)
 
-**Favourite kind of boat** : small sailboat
+**Favourite frequency** : 1/lifetime
 
 mcohen@robots.ox.ac.uk \| [Google Scholar](https://scholar.google.com/citations?user=dwwuO3UAAAAJ&hl=en) \| [Github](https://github.com/mkc1000/)
+
+---
+
+
+<img src="../public/image/xingchenwan.jpg" width="200">
+
+[***Xingchen Wan***](https://xingchenwan.github.io)
+
+**Areas of interest** : Bayesian optimisation, AutoML
+
+**Sample paper** : [Neural Architecture Search using Bayesian Optimisation with Weisfeiler-Lehman Kernel](https://arxiv.org/abs/2006.07556)
+
+**Here through** : June 2022
+
+**Favourite prior** : anything leading to tractable analysis and elegant maths :P
+
+**Favourite view** : a starry night
+
+xwan@robots.ox.ac.uk \| [Github](https://github.com/xingchenwan/) \| [LinkedIn](https://www.linkedin.com/in/xingchenwan/)
+
+---
+
+<img src="../public/image/EdWagstaff.jpg" width="200">
+
+[***Ed Wagstaff***](https://edwag.github.io)
+
+**Areas of interest** : Equivariant Models, Bayesian Quadrature
+
+**Sample paper** : [On the Limitations of Representing Functions on Sets](http://proceedings.mlr.press/v97/wagstaff19a/wagstaff19a.pdf)
+
+**Here through** : Jan 2021
+
+**Favourite prior** : Dirichlet
+
+**Favourite function f : R -> R** : [The Devil's staircase](https://en.wikipedia.org/wiki/Cantor_function)
+
+ed@robots.ox.ac.uk \| [Google Scholar](https://scholar.google.com/citations?user=1wcPYloAAAAJ&hl=en) \| [Github](https://github.com/edwag)
+
+---
+
+<img src="../public/image/SebSchulze.jpg" width="200">
+
+***Sebastian Schulze***
+
+**Areas of interest** : Bayesian Reinforcement Learning, Bayesian Nonparametrics, Decision making under uncertainty
+
+**Sample paper** : [Active Reinforcement Learning with Monte-Carlo Tree Search](https://arxiv.org/abs/1803.04926)
+
+**Here through** : Dec 2020
+
+**Favourite prior** : Normal Distribution (to avoid inference headaches)
+
+**Favourite kind of ship** : TARDIS
+
+sschulze@robots.ox.ac.uk \| [Github](https://github.com/BastiSchulze) 
 
 ---
 
