@@ -18,7 +18,8 @@ Mike is also the co-founder of [Mind Foundry](https://www.mindfoundry.ai/).
 
 ## [Dyson,](https://www.dyson.co.uk) Domestic Robots (2016–21)
 
-We are developing optimisation methods to improve the planning of a domestic robot.
+We are developing Bayesian methods to improve the planning of a domestic robot.
+We'll say more when we can!
 
 ## [Pearson](https://www.pearson.com/en-gb.html) & [Nesta,](https://www.nesta.org.uk/) the future of skills (2016–17)
 
@@ -31,6 +32,10 @@ In addition, we identified the skills, knowledge types, and abilities that will 
 
 ## [OCI,](https://www.oci.co.kr/eng/) Decentralised Solar and Energy Storage Systems (2015–17) 
 
-Intelligent Management of Multiple .
+Machine learning will play a central role in delivering and storing energy in future. 
 
-Lee, J., Zhang, P., Gan, L. K., Howey, D. A., Osborne, M. A., Tosi, A., & Duncan, S. (2018). Optimal operation of an energy management system using model predictive control and Gaussian process time-series modelling. IEEE J. Emerg. Sel. Topics Power Electron. IEEE Journal of Emerging and Selected Topics in Power Electronics, 1. https://doi.org/10.1109/JESTPE.2018.2820071
+To make best use of renewable energy generation, which is intermittent, accurate forecasting is essential. 
+We built Bayesian algorithms to forecast the supply of energy from a network of solar panels – and to forecast the demand for their energy. 
+We also used machine learning to deliver an decentralised management scheme for the electrical batteries co-located with our renewable energy generation.
+
+[Read more.](https://doi.org/10.1109/JESTPE.2018.2820071)
