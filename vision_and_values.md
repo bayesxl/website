@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BXL vision and values
+title: Vision & Values
 tags: vision
 ---
 
@@ -28,9 +28,9 @@ We build Bayesian versions of these numeric algorithms – our goal is an AI tha
 ### Why Bayes? 
 
 Firstly, a Bayesian AI is human-friendly. 
-Its transparency makes it trustworthy, and able to act on our behalf.
+Its transparency makes it trustworthy in acting on our behalf.
 A Bayesian AI is a good listener to its human partner, and will be stronger for the contextual information we give it.
-and makes efficient use of the data we label.
+As a result of this contextual information, it needs fewer data: a Bayesian AI is data-efficient.
 
 Secondly, Bayes has survived more than two-and-a-half centuries of people (unsuccessfully) trying to kill it off. 
 No other approach to AI has proved so useful for so long. 

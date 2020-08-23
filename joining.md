@@ -6,7 +6,7 @@ tags: join
 
 ## Join the BXL
 
-The BXL is always accepting applications from those who share our [vision and values]().
+The BXL is always accepting applications from those who share our [vision and values]({{ site.baseurl }}/vision_and_values).
 As the BXL receives a large number of applications, it is important that you read and follow all appropriate instructions below carefully.
 
 Firstly, if you are following a formal application process (for a place as a student or postdoctoral researcher), *there is no need to make contact independent of your application.*
@@ -16,8 +16,8 @@ That said, please do feel free to ask crisp questions where helpful.
 If you do write, for all applications, please do the following.
 
 1. Answer, in <300 words (there is absolutely no need to use them all), the following questions.
-        * Why the BXL? 
-        * What is the match between your background and interests and the BXL?
+* Why the BXL? 
+* What is the match between your background and interests and the BXL?
 2. Please include in the subject line of your email `[BXL application]` and which application you are making.
 3. Please itemise your questions.
 4. Include an academic CV.

@@ -1,6 +1,7 @@
-## We are
+We are a research group within the <a href="http://www.ox.ac.uk">University of Oxford</a>[^1].
 
-...
+We do Bayesian machine learning: you can read more about our [vision and values]({{ site.baseurl }}/vision_and_values).
+
 
 ## Contact
 
@@ -25,3 +26,5 @@ United Kingdom
 This website was current as of {{ "now" | date: "%Y-%m-%d %H:%M" }}. 
 
 
+
+[^1]: (BXL ⊂ [Machine Learning Research Group](http://www.robots.ox.ac.uk/~parg) ⊂ [Information Engineering](http://www.robots.ox.ac.uk) ⊂ [Department of Engineering Science](https://www.eng.ox.ac.uk))
