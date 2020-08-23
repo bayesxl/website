@@ -6,7 +6,7 @@ tags: vision
 
 ## Vision
 
-> We're very very Bayesian, so that our AIs are human-friendly.
+> We're very very Bayesian, making AI human-friendly.
 
 ### What?
 
@@ -15,31 +15,45 @@ Bayesians use probability theory to build decision-making AIs.
 A Bayesian AI is one that:
 
 1. is comfortable with uncertainty;
-2. is transparent, particularly in reporting its confidence;
+2. is transparent – it honestly reports its confidence;
 3. makes good use of all contextual information, beyond just its data.
 
 The Bayesian approach is the oldest of the approaches to AI, dating back to Laplace, who wrote in 1814 that "the theory of probabilities is basically just common sense reduced to calculus".
 Calculated common sense is exactly AI.
 
 The BXL is taking Bayes further than ever before.
-Numeric algorithms, like optimisers, are essential engines at the heart of all AIs.
-We build Bayesian versions of these numeric algorithms; our goal is AIs that are *fully* Bayesian.
+_Numeric algorithms,_ such as optimisers, are essential engines at the heart of all AIs.
+We build Bayesian versions of these numeric algorithms – our goal is an AI that is __fully__ Bayesian.
 
-### Why? 
+### Why Bayes? 
 
-Firstly, a Bayesian AI is human-friendly. Its transparency makes it trustworthy. 
-benefits from human expertise,
+Firstly, a Bayesian AI is human-friendly. 
+Its transparency makes it trustworthy, and able to act on our behalf.
+A Bayesian AI is a good listener to its human partner, and will be stronger for the contextual information we give it.
 and makes efficient use of the data we label.
 
-Secondly, Bayes has survived more than two-and-a-half centuries of people (unsuccessfully) trying to kill it off. No other approach to AI has proved so useful for so long. 
+Secondly, Bayes has survived more than two-and-a-half centuries of people (unsuccessfully) trying to kill it off. 
+No other approach to AI has proved so useful for so long. 
 
-Thirdly, Bayes is beautiful enough that it might just give a unifying theory for all AI. 
+Thirdly, Bayes is beautiful enough that it might just give a unifying theory for all AI.
 
- Bayes has been hindered by numerics; particularly integrators:
-1. computationally expensive; and 2. often wrong.
+### Why numerics?
 
-We need to build our own wrappers around BayesOpt and BayesQuad to real problems.
+A central bottleneck to AI are its numeric engines, particularly optimisers and integrators.
+These numeric procedures have from two critical problems: they are
 
+1. computationally expensive; and 
+2. often wrong.
+
+The newly-resurrected field of Bayesian numerics (also known as probabilistic numerics) offers solutions to these problems.
+Bayesian numerics treats numeric algorithms as little Bayesian AIs, making decisions about how to use computation.
+By being intelligent about these decisions, Bayesian numerics gives solutions that are: 
+
+1. computationally cheap; and 
+2. less wrong.
+
+Bayesian numeric algorithms of particular interest to the group are Bayesian optimisation and Bayesian quadrature.
+Our goal is to realise the potential of these algorithms in building fully-Bayesian AI.
 
 ## Values
 
