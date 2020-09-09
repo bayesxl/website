@@ -93,6 +93,24 @@ ed@robots.ox.ac.uk \| [Google Scholar](https://scholar.google.com/citations?user
 
 ---
 
+<img src="../public/image/robin.jpg" width="200">
+
+***Binxin Ru (Robin)***
+
+**Areas of interest** : Bayesian Optimisation, Neural Architecture Search, Adversarial Attacks
+
+**Sample paper** : [Bayesian Optimisation over Multiple Continuous and Categorical Inputs](https://arxiv.org/abs/1906.08878)
+
+**Here through** : June 2021
+
+**Favourite prior** : GP with additive/product kernels
+
+**Favourite problems** : Those which are very costly to evaluate
+
+robin@robots.ox.ac.uk \| [Google Scholar](https://scholar.google.com/citations?hl=en&user=4piw-XMAAAAJ) \| [Github](https://github.com/rubinxin) 
+
+---
+
 <img src="../public/image/SebSchulze.jpg" width="200">
 
 ***Sebastian Schulze***

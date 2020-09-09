@@ -48,3 +48,18 @@ standard BO methods. We demonstrate real applications in tuning a deep reinforce
   url = 	 {http://proceedings.mlr.press/v97/wagstaff19a.html},
   abstract = 	 {Recent work on the representation of functions on sets has considered the use of summation in a latent space to enforce permutation invariance. In particular, it has been conjectured that the dimension of this latent space may remain fixed as the cardinality of the sets under consideration increases. However, we demonstrate that the analysis leading to this conjecture requires mappings which are highly discontinuous and argue that this is only of limited practical use. Motivated by this observation, we prove that an implementation of this model via continuous mappings (as provided by e.g. neural networks or Gaussian processes) actually imposes a constraint on the dimensionality of the latent space. Practical universal function representation for set inputs can only be achieved with a latent dimension at least the size of the maximum number of input elements.}
 }
+
+
+@inproceedings{ru2020bayesian,
+    title = {Bayesian optimisation over multiple continuous and categorical inputs},
+    url = {},
+    abstract = {Efficient optimisation of black-box problems that comprise both continuous and categorical inputs is important, yet poses significant challenges. Current approaches, like one-hot encoding, severely increase the dimension of the search space, while separate modelling of category-specific data is sample-inefficient. Both frameworks are not scalable to practical applications involving multiple categorical variables, each with multiple possible values. We propose a new approach, Continuous and Categorical Bayesian Optimisation (CoCaBO), which combines the strengths of multi-armed bandits and Bayesian optimisation to select values for both categorical and continuous inputs. We model this mixed-type space using a Gaussian Process kernel, designed to allow sharing of information across multiple categorical variables; this allows CoCaBO to leverage all available data efficiently. We extend our method to the batch setting and propose an efficient selection procedure that dynamically balances exploration and exploitation whilst encouraging batch diversity. We demonstrate empirically that our method outperforms existing approaches on both synthetic and real-world optimisation tasks with continuous and categorical inputs.},
+    language = {en},
+    urldate = {},
+    booktitle = {International Conference on Machine Learning},
+    author = {Binxin, Ru and Alvi, Ahsan and Nguyen, Vu and Osborne, Michael and Roberts, Stephen},
+    year = {2020},
+    note = {https://github.com/rubinxin/CoCaBO_code},
+    pages = {},
+    file = {ru2020bayesian.pdf}
+}
