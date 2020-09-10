@@ -1,36 +1,5 @@
-/* Forest */
-/* :root {
-  --sidebar-links: #fdb36c;
-  --link-color: #252e0f;
-  --sidebar-background: #4c1f15;
-  --body-background: #fdb36c;
-  --body-frame: #fdb36c;
-  --text: #4c1f15;
-} */
 
 
-/* Christchurch in Winter */
-/* :root {
-  --sidebar-links: #333e2e;
-  --link-color: #5e5f80;
-  --sidebar-background: #5e5f80;
-  --body-background: #99a262;
-  --body-frame: #99a262;
-  --text: #333e2e;
-} */
-
-/* Christchurch in Spring */
-:root {
-  --sidebar-links: #96a160; /*rgb(225, 241, 150);*/
-  --link-color: #868196;
-  --sidebar-background: #1f2714;
-  --body-background: #c2b688;
-  --body-frame: #c2b688;
-  --text: #2c251d;
-}
-
-
-strong {color: var(--text)}
 
 @media{
     .content {
@@ -41,13 +10,13 @@ strong {color: var(--text)}
     display: block;
     margin-top: 0em;
     margin-bottom: 0em;
-    color: var(--text);
+    color: #a39e9b;
     font-family: "Source Code Pro", Monaco, "Courier New", monospace;
     /*font-family:    "karmina-sans", sans-serif;*/
 }
 .list-date {
     font-family: "Source Code Pro", Menlo, Monaco, "Courier New", monospace;
-    color: var(--text);
+    color: #a39e9b;
 }
 p {
     text-align: justify;
@@ -61,8 +30,8 @@ p + p {
 /* THis is the background colour*/
 
 body {
-    color: var(--text);
-    background: var(--body-frame);
+    color: #4f424c;
+    background: #5bc4bf;
     padding: 0 0 20px 0;
     font-family: "karmina", serif;
     font-size: medium;
@@ -83,13 +52,13 @@ h1 {
     font-family: "karmina-sans", sans-serif;
 }
 .page h1 {
-    color: var(--text);
+    color: #e96ba8;
 }
 .post h1 {
-    color: var(--text);
+    color: #e96ba8;
 }
 h2 {
-    color: var(--text);
+    color: #f99b15;
     padding: 0px;
     padding-top: 4px;
     font-family: "karmina-sans", sans-serif;
@@ -101,7 +70,7 @@ h2 {
 }
 h2.topper{
     /*doesn't work!*/
-    color: var(--text);
+    /*color: #815ba4;*/
     text-align: left;
     text-transform: lowercase;
 }
@@ -112,13 +81,13 @@ h3 {
     /*padding-top       : 20px;*/
     text-transform: uppercase;
     font-size: medium;
-    color: var(--text);
+    color: #48b685;
 }
 h4 {
     padding-top: 10px;
     font-family: "karmina", serif;
     font-style: italic;
-    color: var(--text);
+    color: rgb(239, 97, 85);
     font-weight: 700;
     text-indent: 0px;
     font-size: medium;
@@ -126,7 +95,7 @@ h4 {
 }
 
 a {
-    color: var(--link-color);
+    color: #815ba4;
 }
 
 .page a:link {
@@ -161,19 +130,19 @@ background        : url("/public/ico/pdficon_small.png") left center no-repeat;
 
 .sidebar a:link {
     text-decoration: none;
-    color: var(--sidebar-links);
+    color: #06b6ef;
 }
 .sidebar a:visited {
     text-decoration: none;
-    color: var(--sidebar-links);
+    color: #06b6ef;
 }
 .sidebar a:active {
     text-decoration: none;
-    color: var(--sidebar-links);
+    color: #06b6ef;
 }
 .sidebar a:hover {
     text-decoration: underline;
-    color: var(--sidebar-links);
+    color: #06b6ef;
 }
 .sidebar-nav-item {
     text-transform: uppercase;
@@ -197,7 +166,7 @@ a.read_more {
 }
 .mosb {
     font-weight: 700;
-    color: var(--text);
+    color: #rgb(249, 155, 21);
 }
 hr {
     margin-top: 25px;
@@ -311,7 +280,7 @@ img[alt=contact] {
     font-size: 120%;
 }
 .title, .subtitle {
-    color: var(--text);
+    /*color: #ffffff;*/
     padding-top: 8px;
     padding-bottom: 8px;
 }
@@ -334,15 +303,15 @@ img[alt=contact] {
     border-radius: 3px;
     text-decoration: none;
     background-color: transparent;
-    color: var(--text);
+    color: #8d8687;
     padding: 8px;
 }
 .nav > li > a:hover, .nav > li > a:focus {
-    /* background-color: #815ba4; */
-    color: var(--text);
+    background-color: #815ba4;
+    color: #fff;
 }
 .nav > li.active > a, .nav > li.active > a:hover, .nav > li.active > a:focus {
-    color: var(--text);
+    color: #fff;
 }
 /*.nav > li.disabled > a {
   color: #999999;
@@ -360,23 +329,20 @@ img[alt=contact] {
     margin-left: 5px;
 }
 .content {
-    background-color: var(--body-background);
-    color: var(--text);
+    background-color: #e7e9db;
+    color: #2f1e2e;
     border-radius: 3px;
     padding: 30px;
     /*box-shadow: 5px 5px 5px #012;*/
 }
-.sidebar {
-    background-color: var(--sidebar-background);
-}
 .footer {
     padding-top: 10px;
     padding-left: 10px;
-    color: var(--text);
+    color: #8d8687;
 }
-/* .footer a { */
-    /* color: #e7e9db; */
-/* } */
+.footer a {
+    color: #e7e9db;
+}
 .nav-pills > li + li {
     margin-left: 5px;
 }
@@ -395,9 +361,9 @@ ol.bibliography .nav-pills > li > a, ol.bibliography .nav-pills > li > a:hover {
     font-size: small;
     text-transform: uppercase;
     font-family: "karmina-sans", sans-serif;
-    color: var(--text);
+    color: #8d8687;
     background-color: transparent;
 }
 ol.bibliography .nav-pills > li > a:hover {
-    color: var(--text);
+    color: #235;
 }
