@@ -10,6 +10,22 @@
     file = {cohen2020pessimism.pdf}
 }
 
+@inproceedings{wagstaff2019limitations,
+  title = 	 {On the Limitations of Representing Functions on Sets},
+  author = 	 {Wagstaff, Edward and Fuchs, Fabian and Engelcke, Martin and Posner, Ingmar and Osborne, Michael A.},
+  booktitle = 	 {Proceedings of the 36th International Conference on Machine Learning},
+  pages = 	 {6487--6494},
+  year = 	 {2019},
+  editor = 	 {Chaudhuri, Kamalika and Salakhutdinov, Ruslan},
+  volume = 	 {97},
+  series = 	 {Proceedings of Machine Learning Research},
+  address = 	 {Long Beach, California, USA},
+  month = 	 {09--15 Jun},
+  publisher = 	 {PMLR},
+  pdf = 	 {wagstaff2019limitations.pdf},
+  url = 	 {http://proceedings.mlr.press/v97/wagstaff19a.html},
+  abstract = 	 {Recent work on the representation of functions on sets has considered the use of summation in a latent space to enforce permutation invariance. In particular, it has been conjectured that the dimension of this latent space may remain fixed as the cardinality of the sets under consideration increases. However, we demonstrate that the analysis leading to this conjecture requires mappings which are highly discontinuous and argue that this is only of limited practical use. Motivated by this observation, we prove that an implementation of this model via continuous mappings (as provided by e.g. neural networks or Gaussian processes) actually imposes a constraint on the dimensionality of the latent space. Practical universal function representation for set inputs can only be achieved with a latent dimension at least the size of the maximum number of input elements.}
+}
 
 @inproceedings{nguyen2020knowing,
     title = {Knowing The What But Not The Where in Bayesian Optimization},
@@ -26,29 +42,9 @@ standard BO methods. We demonstrate real applications in tuning a deep reinforce
     booktitle = {International Conference on Machine Learning},
     author = {Nguyen, Vu and Osborne, Michael},
     year = {2020},
-    note = {Link to github code, if there is code},
     pages = {},
     file = {nguyen2020knowing.pdf}
 }
-
-
-@InProceedings{wagstaff2019limitations,
-  title = 	 {On the Limitations of Representing Functions on Sets},
-  author = 	 {Wagstaff, Edward and Fuchs, Fabian and Engelcke, Martin and Posner, Ingmar and Osborne, Michael A.},
-  booktitle = 	 {Proceedings of the 36th International Conference on Machine Learning},
-  pages = 	 {6487--6494},
-  year = 	 {2019},
-  editor = 	 {Chaudhuri, Kamalika and Salakhutdinov, Ruslan},
-  volume = 	 {97},
-  series = 	 {Proceedings of Machine Learning Research},
-  address = 	 {Long Beach, California, USA},
-  month = 	 {09--15 Jun},
-  publisher = 	 {PMLR},
-  pdf = 	 {Wagstaff2019Limitations.pdf},
-  url = 	 {http://proceedings.mlr.press/v97/wagstaff19a.html},
-  abstract = 	 {Recent work on the representation of functions on sets has considered the use of summation in a latent space to enforce permutation invariance. In particular, it has been conjectured that the dimension of this latent space may remain fixed as the cardinality of the sets under consideration increases. However, we demonstrate that the analysis leading to this conjecture requires mappings which are highly discontinuous and argue that this is only of limited practical use. Motivated by this observation, we prove that an implementation of this model via continuous mappings (as provided by e.g. neural networks or Gaussian processes) actually imposes a constraint on the dimensionality of the latent space. Practical universal function representation for set inputs can only be achieved with a latent dimension at least the size of the maximum number of input elements.}
-}
-
 
 @inproceedings{ru2020bayesian,
     title = {Bayesian optimisation over multiple continuous and categorical inputs},
