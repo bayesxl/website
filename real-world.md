@@ -18,8 +18,7 @@ Mike is also the co-founder of [Mind Foundry](https://www.mindfoundry.ai/).
 
 ## [Dyson,](https://www.dyson.co.uk) Domestic Robots (2016–21)
 
-We are developing Bayesian methods to improve the planning of a domestic robot.
-We'll say more when we can!
+We are using Bayesian Reinforcement Learning methods for real-world application in a domestic environment. We'll say more when we can!
 
 ## [Pearson](https://www.pearson.com/en-gb.html) & [Nesta,](https://www.nesta.org.uk/) the future of skills (2016–17)
 
