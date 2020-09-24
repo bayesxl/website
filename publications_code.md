@@ -11,19 +11,18 @@ tags: pubs
 * [Workshop Papers](#Workshop)
 * [Theses](#Theses)
 
-## <a name="ConfJour">Conference & Journal Papers</a>
+## Conference & Journal Papers
 
 {% bibliography --file ConfJour_bib %}
 
-## <a name="Preprints">Preprints</a>
+## Preprints
 
 {% bibliography --file Preprints_bib %}
 
-## <a name="Workshop">Workshop papers</a> 
+## Workshop papers
 
 {% bibliography --file Workshop_bib %}
 
-## <a name="Theses">Theses</a>
+## Theses
 
 {% bibliography --file Theses_bib %}
-

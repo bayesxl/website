@@ -20,13 +20,24 @@
 } */
 
 /* Christchurch in Spring */
-:root {
-  --sidebar-links: #96a160; /*rgb(225, 241, 150);*/
+/* :root {
+  --sidebar-links: #96a160;
   --link-color: #868196;
   --sidebar-background: #1f2714;
   --body-background: #c2b688;
   --body-frame: #c2b688;
   --text: #2c251d;
+} */
+
+/* Logo Colors */
+:root {
+  --sidebar-links: #fb9507;
+  --link-color:	#ffffff;
+  --sidebar-background: #222222;
+  --body-background: #28c5bd;
+  --body-frame: #28c5bd;
+  --text: #000000;
+  --header-text: #8b54ac;
 }
 
 
@@ -77,19 +88,19 @@ h1 {
     margin-bottom: 0px;
 }
 .sidebar-about h1 {
-    font-size: 2.2rem;
+    font-size: 1.75rem;
     text-transform: uppercase;
     text-align: center;
     font-family: "karmina-sans", sans-serif;
 }
 .page h1 {
-    color: var(--text);
+    color: var(--header-text);
 }
 .post h1 {
-    color: var(--text);
+    color: var(--header-text);
 }
 h2 {
-    color: var(--text);
+    color: var(--header-text);
     padding: 0px;
     padding-top: 4px;
     font-family: "karmina-sans", sans-serif;
@@ -101,7 +112,7 @@ h2 {
 }
 h2.topper{
     /*doesn't work!*/
-    color: var(--text);
+    color: var(--header-text);
     text-align: left;
     text-transform: lowercase;
 }
@@ -112,7 +123,8 @@ h3 {
     /*padding-top       : 20px;*/
     text-transform: uppercase;
     font-size: medium;
-    color: var(--text);
+    color: var(--header-text);
+
 }
 h4 {
     padding-top: 10px;
